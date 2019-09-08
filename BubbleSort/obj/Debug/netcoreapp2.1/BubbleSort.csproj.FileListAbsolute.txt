@@ -1,0 +1,11 @@
+c:\users\suleyman.sevak\source\repos\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.1\BubbleSort.csprojAssemblyReference.cache
+c:\users\suleyman.sevak\source\repos\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.1\BubbleSort.csproj.CoreCompileInputs.cache
+c:\users\suleyman.sevak\source\repos\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.1\BubbleSort.AssemblyInfoInputs.cache
+c:\users\suleyman.sevak\source\repos\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.1\BubbleSort.AssemblyInfo.cs
+c:\users\suleyman.sevak\source\repos\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.1\BubbleSort.deps.json
+c:\users\suleyman.sevak\source\repos\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.1\BubbleSort.runtimeconfig.json
+c:\users\suleyman.sevak\source\repos\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.1\BubbleSort.runtimeconfig.dev.json
+c:\users\suleyman.sevak\source\repos\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.1\BubbleSort.dll
+c:\users\suleyman.sevak\source\repos\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.1\BubbleSort.pdb
+c:\users\suleyman.sevak\source\repos\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.1\BubbleSort.dll
+c:\users\suleyman.sevak\source\repos\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.1\BubbleSort.pdb
